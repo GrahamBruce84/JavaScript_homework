@@ -86,7 +86,7 @@ var player = function(){
     return players.push("Colin");
 
     var possiblyMorePlayers = function(){
-      return players.unshift("Chris");
+      return players.unshift("Eddie");
     }
     possiblyMorePlayers();
   }
